@@ -21,7 +21,7 @@ curl -sSL https://get.pimoroni.com/grow | bash
 
 ## Or... Install and configure dependencies from GitHub:
 
-* `git clone https://github.com/pimoroni/grow-python`
+* `git clone https://github.com/dpaddon/grow-python.git`
 * `cd grow-python`
 * `sudo ./install.sh`
 
@@ -49,6 +49,10 @@ You should read the following to get up and running with our monitoring script:
 
 * [Using and configuring monitor.py](examples/README.md)
 * [Setting up monitor.py as a service](service/README.md)
+
+
+## To Do:
+* [ ] add MQTT support to publish moisture readings to topics
 
 ## Help & Support
 
