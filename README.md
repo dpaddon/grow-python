@@ -52,7 +52,7 @@ You should read the following to get up and running with our monitoring script:
 
 
 ## To Do:
-[] add MQTT support to publish moisture readings to topics
+* [ ] add MQTT support to publish moisture readings to topics
 
 ## Help & Support
 
